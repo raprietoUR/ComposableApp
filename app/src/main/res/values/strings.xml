@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ComposableApp</string>
+    <string name="descripcion11">Displays text and follows Material Design guidelines.</string>
+    <string name="descripcion12">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="descripcion21">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="descripcion22">A layout composable that places its children in a vertical sequence.</string>
+    <string name="titulo11">Text composable</string>
+    <string name="titulo12">Image composable</string>
+    <string name="titulo21">Row composable</string>
+    <string name="titulo22">Column composable</string>
+</resources>
